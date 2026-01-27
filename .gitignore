@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+data/processed/FIA/
+data/processed/topography/
+scripts/1.soils/deprecated/
+scripts/2.climate/deprecated/
+scripts/3.topography/
